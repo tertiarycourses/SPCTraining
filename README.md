@@ -1,5 +1,5 @@
 # Statistical Process Control (SPC) Training
-## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
+## by [Tertiary Courses](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Statistical Process Control (SPC) Training](https://www.tertiarycourses.com.sg/statistical-process-control-spc-training.html) course. 
 
